@@ -5,11 +5,11 @@ Difficulty: Easy
 Language: C
 */
 
-int findNumbers(int* nums, int numsSize)
+int findNumbers(int* nums, int numSize)
 {
 int count = 0;
 
-for (int i = 0; i < numsSize; i++)
+for (int i = 0; i < numSize; i++)
 {
     int digits = 0;
     int num = nums[i];

@@ -6,6 +6,7 @@ int main() {
     printf("Enter the n value: ");
     scanf("%d", &n);
 
+    //entered number is less than equal to 1 The number is not prime
     if (n <= 1) {
         printf("Not prime\n");
         return 0;

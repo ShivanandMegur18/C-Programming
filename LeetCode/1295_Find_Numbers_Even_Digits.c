@@ -1,5 +1,5 @@
 /*
-Problem: Find Numbers with Even Number of Digits
+Problem: Find Numbers with Even number of Digits
 LeetCode Problem: 1295
 Difficulty: Easy
 Language: C

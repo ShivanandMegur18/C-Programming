@@ -73,7 +73,7 @@ int* twoSum(int* nums, int numsSize, int target, int* returnSize) {
             if(nums[i] + nums[j] == target) {
                 result[0] = i;
                 result[1] = j;
-                *returnSize = 2;  // IMPORTANT
+                *returnSize = 2;  // IMP
                 return result;
             }
         }

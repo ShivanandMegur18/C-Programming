@@ -21,7 +21,7 @@
 //         for(int j = i + 1; j < numSize; j++) {
 //             if(num[i] + num[j] == target) {
 //                 printf("Indices: %d %d\n", i, j);
-//                 return 0;  // stop after finding the answer
+//                 return 0;  // stop after finding the answe
 //             }
 //         }
 //     }
